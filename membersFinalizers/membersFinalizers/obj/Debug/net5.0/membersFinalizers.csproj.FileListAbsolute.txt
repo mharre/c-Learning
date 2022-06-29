@@ -1,0 +1,16 @@
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\membersFinalizers.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\membersFinalizers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\membersFinalizers.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\membersFinalizers.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\membersFinalizers.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\bin\Debug\net5.0\membersFinalizers.exe
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\bin\Debug\net5.0\membersFinalizers.deps.json
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\bin\Debug\net5.0\membersFinalizers.runtimeconfig.json
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\bin\Debug\net5.0\membersFinalizers.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\bin\Debug\net5.0\membersFinalizers.dll
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\bin\Debug\net5.0\membersFinalizers.pdb
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\membersFinalizers.dll
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\refint\membersFinalizers.dll
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\membersFinalizers.pdb
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\membersFinalizers.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\membersFinalizers\membersFinalizers\obj\Debug\net5.0\ref\membersFinalizers.dll

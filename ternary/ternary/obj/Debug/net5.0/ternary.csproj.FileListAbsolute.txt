@@ -1,0 +1,16 @@
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\ternary.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\ternary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\ternary.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\ternary.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\ternary.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\ternary\ternary\bin\Debug\net5.0\ternary.exe
+C:\Users\Matthew\source\repos\ternary\ternary\bin\Debug\net5.0\ternary.deps.json
+C:\Users\Matthew\source\repos\ternary\ternary\bin\Debug\net5.0\ternary.runtimeconfig.json
+C:\Users\Matthew\source\repos\ternary\ternary\bin\Debug\net5.0\ternary.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\ternary\ternary\bin\Debug\net5.0\ternary.dll
+C:\Users\Matthew\source\repos\ternary\ternary\bin\Debug\net5.0\ternary.pdb
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\ternary.dll
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\refint\ternary.dll
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\ternary.pdb
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\ternary.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\ternary\ternary\obj\Debug\net5.0\ref\ternary.dll

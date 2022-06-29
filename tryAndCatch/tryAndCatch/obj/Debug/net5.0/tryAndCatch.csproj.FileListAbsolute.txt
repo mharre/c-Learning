@@ -1,0 +1,16 @@
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\bin\Debug\net5.0\tryAndCatch.exe
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\bin\Debug\net5.0\tryAndCatch.deps.json
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\bin\Debug\net5.0\tryAndCatch.runtimeconfig.json
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\bin\Debug\net5.0\tryAndCatch.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\bin\Debug\net5.0\tryAndCatch.dll
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\bin\Debug\net5.0\tryAndCatch.pdb
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\tryAndCatch.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\tryAndCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\tryAndCatch.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\tryAndCatch.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\tryAndCatch.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\tryAndCatch.dll
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\refint\tryAndCatch.dll
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\tryAndCatch.pdb
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\tryAndCatch.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\tryAndCatch\tryAndCatch\obj\Debug\net5.0\ref\tryAndCatch.dll
