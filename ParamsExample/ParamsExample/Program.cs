@@ -6,13 +6,22 @@ namespace ParamsExample
     {
         static void Main(string[] args)
         {
-            int price = 50;
-            float pi = 3.14f;
-            char at = '@';
-            string book = "Book";
+            int min = MinV2(5, 3, 2, 1, 6, 33, 1, 67, 3);
+            Console.WriteLine($"{min}");
 
-            ParamsMethod("This", "is", "a", "sentence", "accept", "everything");
-            ParamsMethod2(price, pi, at, book);
+        }
+
+        public static int MinV2(params int[] numbers)
+        {
+            int min = int.MaxValue;
+            foreach (int num in numbers)
+            {
+                if (num < min)
+                {
+                    min = num;
+                }
+            }
+            return min;
         }
 
         public static void ParamsMethod(params string[] sentence)
