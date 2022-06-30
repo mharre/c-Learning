@@ -1,0 +1,16 @@
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net5.0\DelegatesEx.exe
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net5.0\DelegatesEx.deps.json
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net5.0\DelegatesEx.runtimeconfig.json
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net5.0\DelegatesEx.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net5.0\DelegatesEx.dll
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\bin\Debug\net5.0\DelegatesEx.pdb
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\DelegatesEx.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\DelegatesEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\DelegatesEx.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\DelegatesEx.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\DelegatesEx.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\DelegatesEx.dll
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\refint\DelegatesEx.dll
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\DelegatesEx.pdb
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\DelegatesEx.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\DelegatesEx\DelegatesEx\obj\Debug\net5.0\ref\DelegatesEx.dll
