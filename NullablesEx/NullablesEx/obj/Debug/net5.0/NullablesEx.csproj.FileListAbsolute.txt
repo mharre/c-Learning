@@ -1,0 +1,16 @@
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\NullablesEx.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\NullablesEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\NullablesEx.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\NullablesEx.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\NullablesEx.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\bin\Debug\net5.0\NullablesEx.exe
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\bin\Debug\net5.0\NullablesEx.deps.json
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\bin\Debug\net5.0\NullablesEx.runtimeconfig.json
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\bin\Debug\net5.0\NullablesEx.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\bin\Debug\net5.0\NullablesEx.dll
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\bin\Debug\net5.0\NullablesEx.pdb
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\NullablesEx.dll
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\refint\NullablesEx.dll
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\NullablesEx.pdb
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\NullablesEx.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\NullablesEx\NullablesEx\obj\Debug\net5.0\ref\NullablesEx.dll

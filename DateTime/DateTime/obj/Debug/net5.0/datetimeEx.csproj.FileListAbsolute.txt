@@ -1,0 +1,16 @@
+C:\Users\Matthew\source\repos\DateTime\DateTime\bin\Debug\net5.0\datetimeEx.exe
+C:\Users\Matthew\source\repos\DateTime\DateTime\bin\Debug\net5.0\datetimeEx.deps.json
+C:\Users\Matthew\source\repos\DateTime\DateTime\bin\Debug\net5.0\datetimeEx.runtimeconfig.json
+C:\Users\Matthew\source\repos\DateTime\DateTime\bin\Debug\net5.0\datetimeEx.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\DateTime\DateTime\bin\Debug\net5.0\datetimeEx.dll
+C:\Users\Matthew\source\repos\DateTime\DateTime\bin\Debug\net5.0\datetimeEx.pdb
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\datetimeEx.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\datetimeEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\datetimeEx.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\datetimeEx.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\datetimeEx.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\datetimeEx.dll
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\refint\datetimeEx.dll
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\datetimeEx.pdb
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\datetimeEx.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\DateTime\DateTime\obj\Debug\net5.0\ref\datetimeEx.dll

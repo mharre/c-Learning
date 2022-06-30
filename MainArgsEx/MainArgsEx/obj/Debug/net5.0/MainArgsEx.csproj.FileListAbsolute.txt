@@ -1,0 +1,16 @@
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\bin\Debug\net5.0\MainArgsEx.exe
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\bin\Debug\net5.0\MainArgsEx.deps.json
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\bin\Debug\net5.0\MainArgsEx.runtimeconfig.json
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\bin\Debug\net5.0\MainArgsEx.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\bin\Debug\net5.0\MainArgsEx.dll
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\bin\Debug\net5.0\MainArgsEx.pdb
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\MainArgsEx.csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\MainArgsEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\MainArgsEx.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\MainArgsEx.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\MainArgsEx.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\MainArgsEx.dll
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\refint\MainArgsEx.dll
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\MainArgsEx.pdb
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\MainArgsEx.genruntimeconfig.cache
+C:\Users\Matthew\source\repos\MainArgsEx\MainArgsEx\obj\Debug\net5.0\ref\MainArgsEx.dll
